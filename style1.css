@@ -1,0 +1,42 @@
+body{
+  background-color:purple;
+  color:white;
+  font-size:30px;
+}  
+h1{
+  text-align:center;
+  text-transform:uppercase;
+  font-size:40px;
+  border:2px double white; 
+}
+p{
+  text-transform:capitalize;
+  text-align:center;
+}
+legend{
+  text-align:center;
+}
+fieldset{
+  border:2px dotted white;
+  border-radius:10px; 
+}
+img{
+    width:180px;
+    height:150px;
+    object-fit:cover;
+    border-radius:10px;
+    border:2px double white;
+}
+li{
+  border:2px dotted white;
+  border-radius:10px; 
+}
+button{
+  background-color:purple;
+  color:white;
+  border:2px dotted white;
+  border-radius:15px;
+  height:60px;
+  width:130px;
+  font-size:17px;
+}

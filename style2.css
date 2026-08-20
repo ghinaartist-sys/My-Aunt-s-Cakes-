@@ -1,0 +1,103 @@
+body{
+  background-color:purple;
+  color:white;
+  font-size:25px;
+ font-family:"Lucida Handwriting" ,cursive;
+}
+h1{
+  text-align:center;
+  text-transform:capitalize;
+}
+div{
+  font-size:30px;
+  background-color:pink;
+  color:purple; 
+  font-family: Papyrus ,fantasy;
+  width:855px;
+  height:240px;
+  padding-left:30px;
+  border:5px double white;
+  border-radius:15px;
+}
+input[ type="radio"]{
+  transform:scale(1.5);
+  padding-right:30px;
+  
+}
+legend{
+  border:4px dotted pink;
+  text-align:center;  
+  font-size:60px; 
+  font-family:Chiller ,fantasy;
+}
+fieldset{
+  border:10px dotted pink;
+  border-radius:20px;
+}
+input[type="number"]{
+  height:30px;
+  width:300px;
+  border:5px double purple;
+  border-radius:15px;
+  background-color:pink;
+  color:purple;
+}
+#d1{
+  height:260px;
+}
+  #d3{
+  height:300px;
+}
+select{
+  height:40px;
+  width:150px;
+  border:5px double purple;
+  border-radius:15px;
+background-color:pink;
+  color:purple;
+}
+select option{
+  background-color:purple;
+  color:pink;
+  font-size: 25px;
+}
+#d4{
+  height:416px;
+}
+input[ type="checkbox"]{
+  transform:scale(1.5);
+  padding-right:30px;
+}
+.c1{
+  background-color:purple;
+  height:100px;
+  width:340px;
+  font-size:40px;
+  border:7px dotted pink;
+  border-radius:15px; 
+  color:pink;
+}
+.c3{
+  background-color:pink;
+  height:75px;
+  width:300px;
+  font-size:40px;
+  border:7px double purple;
+  border-radius:15px; 
+  color:purple;
+}
+input[type="text"]{
+  font-size:20px;
+}
+.c4{
+  background-color:pink;
+  height:75px;
+  width:300px;
+  font-size:40px;
+  border:7px double purple;
+  border-radius:15px; 
+  color:purple;
+}
+#d5{
+  height:780px;
+}
